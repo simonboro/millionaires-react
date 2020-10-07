@@ -1,0 +1,55 @@
+.content-game {
+  display: flex;
+  justify-content: center;
+}
+.game {
+  display: flex;
+  width: 800px;
+  align-items: center;
+}
+.levels {
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+  padding-top: 40px;
+}
+.levels div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  width: 200px;
+  height: 20px;
+  padding: 12px 12px 12px 12px;
+}
+.game-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.game-header p {
+  font-size: 20px;
+  font-weight: 500;
+}
+.question {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 600px;
+  padding: 10px 10px 10px 10px;
+}
+.question p {
+  display: flex;
+  align-items: center;
+  padding: 6px 6px 6px 40px;
+  border: 1px solid black;
+  height: 30px;
+  width: 400px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.question button {
+  height: 40px;
+  width: 100px;
+  font-weight: 800;
+}

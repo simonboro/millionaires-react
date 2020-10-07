@@ -1,0 +1,26 @@
+.end-game {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+.end-game-panel {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 500px;
+}
+.end-game-panel h2 {
+  font-size: 40px;
+}
+.end-game-panel p {
+  font-size: 20px;
+}
+.end-game-panel button {
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

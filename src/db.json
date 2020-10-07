@@ -1,0 +1,217 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Marek",
+      "score": 500
+    },
+    {
+      "id": 2,
+      "userName": "Paweł",
+      "score": 1000
+    },
+    {
+      "userName": "awdawdadw",
+      "score": 10000,
+      "id": 3
+    },
+    {
+      "userName": "dawawdaw",
+      "score": 75000,
+      "id": 4
+    },
+    {
+      "userName": "qwqwe",
+      "score": 500,
+      "id": 5
+    },
+    {
+      "userName": "dawwadwda",
+      "score": 1000,
+      "id": 6
+    },
+    {
+      "userName": "awdawdawd",
+      "score": 500,
+      "id": 7
+    },
+    {
+      "userName": "Radek",
+      "score": 125000,
+      "id": 8
+    },
+    {
+      "userName": "uhdwahwda",
+      "score": 500,
+      "id": 9
+    },
+    {
+      "userName": "daawdawdadw",
+      "score": 500,
+      "id": 10
+    },
+    {
+      "userName": "awdwadawd",
+      "score": 10000,
+      "id": 11
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "levelNumber": 1,
+      "amount": 500
+    },
+    {
+      "id": 2,
+      "levelNumber": 2,
+      "amount": 1000
+    },
+    {
+      "id": 3,
+      "levelNumber": 3,
+      "amount": 5000
+    },
+    {
+      "id": 4,
+      "levelNumber": 4,
+      "amount": 10000
+    },
+    {
+      "id": 5,
+      "levelNumber": 5,
+      "amount": 20000
+    },
+    {
+      "id": 6,
+      "levelNumber": 6,
+      "amount": 40000
+    },
+    {
+      "id": 7,
+      "levelNumber": 7,
+      "amount": 75000
+    },
+    {
+      "id": 8,
+      "levelNumber": 8,
+      "amount": 125000
+    },
+    {
+      "id": 9,
+      "levelNumber": 9,
+      "amount": 250000
+    },
+    {
+      "id": 10,
+      "levelNumber": 10,
+      "amount": 500000
+    },
+    {
+      "id": 11,
+      "levelNumber": 11,
+      "amount": 1000000
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Co to jest zip?",
+      "answer1": "rozszerzenie dzwięku",
+      "answer2": "rozszerzenie obrazka",
+      "answer3": "rodzaj kodeka muzycznego",
+      "answer4": "format kompresji plików",
+      "correctAnswer": "format kompresji plików"
+    },
+    {
+      "id": 2,
+      "question": "Jak nazywa się podstawowy edytor graficzny Windows?",
+      "answer1": "Photoshop",
+      "answer2": "Paint",
+      "answer3": "Word",
+      "answer4": "Gimp",
+      "correctAnswer": "Paint"
+    },
+    {
+      "id": 3,
+      "question": "Do czego służy hiperłącze?",
+      "answer1": "do otwierania stron www",
+      "answer2": "do wysyłania filmów",
+      "answer3": "do przyspieszenia internetu",
+      "answer4": "do czytania dokumentów",
+      "correctAnswer": "do otwierania stron www"
+    },
+    {
+      "id": 4,
+      "question": "Na którym serwerze można odtworzyć wideo strumieniowane?",
+      "answer1": "youtube",
+      "answer2": "onet",
+      "answer3": "wp",
+      "answer4": "o2",
+      "correctAnswer": "youtube"
+    },
+    {
+      "id": 5,
+      "question": "Najpopularniejszy format plików muzycznych to:",
+      "answer1": "doc",
+      "answer2": "bmp",
+      "answer3": "mp3",
+      "answer4": "avi",
+      "correctAnswer": "mp3"
+    },
+    {
+      "id": 6,
+      "question": "Jak nazywa się przeglądarka od Google?",
+      "answer1": "Edge",
+      "answer2": "Opera",
+      "answer3": "Firefox",
+      "answer4": "Chrome",
+      "correctAnswer": "Chrome"
+    },
+    {
+      "id": 7,
+      "question": "Jaki jest popularny format dysku twardego/pamięci przenośnej?",
+      "answer1": "FAT32",
+      "answer2": "inne",
+      "answer3": "FAT",
+      "answer4": "NTFS",
+      "correctAnswer": "FAT32"
+    },
+    {
+      "id": 8,
+      "question": "W jakim programie zapisuje się format .doc",
+      "answer1": "PowerPoint",
+      "answer2": "PhotoShop",
+      "answer3": "Paint",
+      "answer4": "Word",
+      "correctAnswer": "Word"
+    },
+    {
+      "id": 9,
+      "question": "Które z tych programów *nie jest* autorstwa Microsoft-u ?",
+      "answer1": "Excel",
+      "answer2": "PowerPaint",
+      "answer3": "Paint",
+      "answer4": "PhotoShop",
+      "correctAnswer": "PhotoShop"
+    },
+    {
+      "id": 10,
+      "question": "Karta rozszerzeń pozwalająca na odtwarzanie oraz nagrywanie na komputerze dźwięku to:",
+      "answer1": "Karta dzwiękowa",
+      "answer2": "Karta graficzna",
+      "answer3": "Karta sieciowa",
+      "answer4": "Karta MasterCard",
+      "correctAnswer": "Karta dzwiękowa"
+    },
+    {
+      "id": 11,
+      "question": "Który z wymienionych programów autorstwa Microsoft służy do wykonywania prezentacji multimedialnych?",
+      "answer1": "Word",
+      "answer2": "PowerPoint",
+      "answer3": "Publisher",
+      "answer4": "Excel",
+      "correctAnswer": "PowerPoint"
+    }
+  ]
+}
